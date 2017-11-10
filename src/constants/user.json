@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "gender": "Female",
+      "first_name": "Tam",
+      "last_name": "Vu",
+      "email": "vminhtam.ctv@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "privilege": 2
+    }, {
+      "id": 2,
+      "gender": "Male",
+      "first_name": "Xuan",
+      "last_name": "Nguyen",
+      "email": "xuannv.ctv@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "privilege": 3
+    }, {
+      "id": 3,
+      "gender": "Male",
+      "first_name": "Di",
+      "last_name": "Envy",
+      "email": "dungnv512.ctv@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "privilege": 1
+    }
+]
